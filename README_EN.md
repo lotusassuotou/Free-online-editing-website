@@ -203,12 +203,6 @@ The website now has 14+ practical tools and fully supports:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 📞 Contact
-
-- Email: contact@example.com
-- GitHub: [Your GitHub Link]
-- Website: [Your Website Link]
-
----
 
 ⭐ If this project helps you, please give us a Star!
+
