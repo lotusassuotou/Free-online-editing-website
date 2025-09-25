@@ -199,12 +199,6 @@ npm run preview
 
 本项目采用 [MIT License](LICENSE) 开源协议。
 
-## 📞 联系方式
-
-- 邮箱: contact@example.com
-- GitHub: [您的GitHub链接]
-- 网站: [您的网站链接]
-
----
 
 ⭐ 如果这个项目对您有帮助，请给我们一个Star！
+
