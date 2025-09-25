@@ -1,0 +1,55 @@
+{
+  "name": "life-tools-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "生活实用工具网站 - 免费无广告在线工具集合",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "file-saver": "^2.0.5",
+    "jsbarcode": "^3.12.1",
+    "lucide-react": "^0.284.0",
+    "pdf-lib": "^1.17.1",
+    "qrcode": "^1.5.3",
+    "react": "^18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.15",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "postcss": "^8.4.28",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": [
+    "在线工具",
+    "实用工具",
+    "生活工具",
+    "免费工具",
+    "二维码生成",
+    "颜色工具",
+    "文本工具",
+    "密码生成器",
+    "PDF工具",
+    "图片编辑",
+    "在线PS",
+    "PDF合并",
+    "PDF分割"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
